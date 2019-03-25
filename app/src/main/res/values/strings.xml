@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Feng_Twitter</string>
+    <string name="action_logout">Log out</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sharedPreference_twitter_mock">SharedPreferenceForTwitter</string>
+    <string name="sharedPreference_token_key">SharedPreferenceKeyForToken</string>
+    <string name="sharedPreference_userName_key">UserName</string>
+    <string name="sharedPreference_password_key">UserPassword</string>
+    <integer name="token_Unauthorized_code">401</integer>
+    <string name="token_Unauthorized_message">Unauthorized</string>
+    <string name ="trov_temp_url">temp_tweet </string>
+    <string name = "preset_user_name">TestAccount</string>
+    <string name = "preset_user_password">1234</string>
+
+    <string-array name="feng_tweet">
+        <item>Ottawa is Canada’s capital, a dynamic showcase city of more than one million people.
+            Located in Ontario at the Quebec border, it’s a place where you’ll hear English and French
+            spoken in the streets; where you can discover Canada’s proud heritage at impressive national
+            sites and famous landmarks, including the Rideau Canal (a UNESCO World Heritage Site).
+        </item>
+        <item>It’s a city steeped in culture, with world-class museums and galleries displaying stunning
+            national collections and special exhibitions from Canada and around the world.
+        </item>
+    </string-array>
+
+    <!--GUI String-->
+    <string name="login_button_display">Login</string>
+    <string name="user_name_hint">Your user name</string>
+    <string name="user_password_hint">Your password</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    <string name="compose_tweet_activity">Tweet</string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>
